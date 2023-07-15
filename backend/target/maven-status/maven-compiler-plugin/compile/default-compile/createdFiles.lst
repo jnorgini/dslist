@@ -1,0 +1,17 @@
+com\norgini\dslist\config\WebConfig$1.class
+com\norgini\dslist\DslistApplication.class
+com\norgini\dslist\entities\Game.class
+com\norgini\dslist\dto\GameListDTO.class
+com\norgini\dslist\config\WebConfig.class
+com\norgini\dslist\projections\GameMinProjection.class
+com\norgini\dslist\controllers\GameController.class
+com\norgini\dslist\services\GameListService.class
+com\norgini\dslist\entities\Belonging.class
+com\norgini\dslist\entities\GameList.class
+com\norgini\dslist\services\GameService.class
+com\norgini\dslist\repositories\GameRepository.class
+com\norgini\dslist\controllers\GameListController.class
+com\norgini\dslist\repositories\GameListRepository.class
+com\norgini\dslist\dto\GameMinDTO.class
+com\norgini\dslist\entities\BelongingPK.class
+com\norgini\dslist\dto\GameDTO.class
