@@ -16,9 +16,7 @@ export default function Home() {
                         <div>
                             <h1>DSList PRO</h1>
                             <h2>Suas coleções do jeito certo</h2>
-                            <p>Organize sua coleção de games de um jeito prático de divertido. Na verdade
-                                você vai aprender a criar este aplicativo e elevar seus conhecimentos
-                                para o próximo nível :)
+                            <p>O aplicativo definitivo para organizar suas coleções de games de forma prática e divertida! Se você é um entusiasta dos jogos e deseja elevar seus conhecimentos a um nível superior, este é o lugar certo para você.
                             </p>
                         </div>
                         <Link to="/lists">
