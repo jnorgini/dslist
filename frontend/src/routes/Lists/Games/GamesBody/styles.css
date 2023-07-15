@@ -1,0 +1,25 @@
+.games-section {
+  padding: 20px;
+}
+
+.games-section h2 {
+  font-size: 32px;
+  color: var(--color-blue-dark);
+  margin-bottom: 20px;
+}
+
+.game-listing-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+@media (min-width: 768px) {
+  .games-section {
+    padding: 40px 20px;
+  }
+
+  .games-section h2 {
+    font-size: 48px;
+  }
+}

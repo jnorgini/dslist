@@ -1,0 +1,44 @@
+.card-game-listing {
+    display: flex;
+}
+
+.game-card-listing-left-container {
+    flex: 0 0 91px;
+}
+
+.game-card-listing-left-container img {
+    border-radius: 8px 0 0 8px;
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.game-card-listing-right-container {
+    padding: 20px;
+    border-radius: 8px 0 0 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.game-card-listing-right-container h3 {
+    font-size: 20px;
+    color: var(--color-blue-dark);
+}
+
+.game-card-listing-right-container h4 {
+    font-size: 16px;
+    color: var(--color-blue-medium);
+}
+
+.game-card-listing-right-container p {
+    display: none;
+}
+
+@media (min-width: 768px) {
+    .game-card-listing-right-container p {
+        display: unset;
+        font-size: 16px;
+        color: var(--color-gray-dark);
+    }
+}

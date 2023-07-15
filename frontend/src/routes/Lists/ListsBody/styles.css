@@ -1,0 +1,30 @@
+.lists-section {
+  padding: 20px;
+}
+
+.card-collections {
+  padding: 20px;
+}
+
+.card-collections h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.card-collections ul {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.card-collections ul li {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--color-blue-medium);
+}
+
+@media (min-width: 768px) {
+  .lists-section {
+    padding: 40px;
+  }
+}

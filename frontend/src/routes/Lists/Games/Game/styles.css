@@ -1,0 +1,9 @@
+.game-section {
+  padding: 20px 10px;
+}
+
+@media (min-width: 768px) {
+  .game-section {
+    padding: 40px 20px;
+  }
+}
