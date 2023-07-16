@@ -1,8 +1,6 @@
-com\norgini\dslist\config\WebConfig$1.class
 com\norgini\dslist\DslistApplication.class
 com\norgini\dslist\entities\Game.class
 com\norgini\dslist\dto\GameListDTO.class
-com\norgini\dslist\config\WebConfig.class
 com\norgini\dslist\projections\GameMinProjection.class
 com\norgini\dslist\controllers\GameController.class
 com\norgini\dslist\services\GameListService.class

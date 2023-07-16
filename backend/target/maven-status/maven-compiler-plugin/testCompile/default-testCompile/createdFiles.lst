@@ -1,1 +1,10 @@
-com\norgini\dslist\DslistApplicationTests.class
+com\norgini\dslist\entities\BelongingTest.class
+com\norgini\dslist\services\GameServiceTest.class
+com\norgini\dslist\dto\GameListDTOTest.class
+com\norgini\dslist\DslistApplicationTest.class
+com\norgini\dslist\dto\GameMinDTOTest.class
+com\norgini\dslist\entities\BelongingPKTest.class
+com\norgini\dslist\services\GameListServiceTest.class
+com\norgini\dslist\entities\GameListTest.class
+com\norgini\dslist\entities\GameTest.class
+com\norgini\dslist\dto\GameDTOTest.class
