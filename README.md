@@ -102,6 +102,7 @@
 
 ### Start da aplicação via VS Code
 - File - Open Folder... - dslist - frontend
+- Vá em src/components/util/system.ts e mude o `BACKEND_URL` para `http://localhost:8080`
 - ctrl + ' para abrir o terminal
 - No terminal:
   ```
