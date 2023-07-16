@@ -17,7 +17,7 @@
 
 ## Sobre
 
-> Projeto criado durante o intensivão Spring Boot do [Devsuperior](https://github.com/devsuperior/).
+> Projeto criado durante o Intensivão Java Spring do [Devsuperior](https://github.com/devsuperior/).
 > Back-End com Spring Boot, database com H2 (teste) e Postgresql. Front-End com TypeScript, Vite e React.JS. Trata-se de uma aplicação web que permite aos usuários criar e gerenciar uma lista personalizada de jogos.
 > [Link de acesso](https://dslist.vercel.app/) <
 
