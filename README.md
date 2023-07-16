@@ -51,7 +51,7 @@
 - **React.js**
 - **Node.js**
 - **npm**
-- **Vercel** deploy
+- **Vercel** - deploy
 
 ## Mobile
 
